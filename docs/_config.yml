@@ -1,0 +1,15 @@
+title: My Personal Profile
+description: Welcome to my personal profile site!
+theme: jekyll-theme-primer
+url: https://aasmaa01.github.io
+baseurl: "/"
+
+# Optional: include additional settings as needed
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - .gitignore
